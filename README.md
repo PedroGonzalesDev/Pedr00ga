@@ -37,7 +37,7 @@ Sou apaixonado por **novas tecnologias e comunicações**, e sempre busco evolui
 
 ### 📈 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr00ga&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGonzalesDev&show_icons=true&theme=radical)
 
 ---
 
